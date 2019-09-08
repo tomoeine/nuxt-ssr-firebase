@@ -2,6 +2,8 @@
 
 ## Build & Deploy
 
+"firebase init" required before first deployment.
+
 ``` bash
 # Install dependencies
 $ cd /path/to/<project-name>/functions && yarn install
